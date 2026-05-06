@@ -1,7 +1,7 @@
 def add(a,b):
-  return a+b
+  return a + b
 
 
-if __name__=="__main__":#pragma:no cover
+if__name__=="__main__":
   result = add(2,3)
   print(result)
